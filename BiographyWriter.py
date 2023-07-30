@@ -4,6 +4,8 @@ K_API_KEY = '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'
 S_API_KEY = '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'
 openai.api_key = S_API_KEY
 
+print("\nHey! Let's setup your personal biography.\n")
+
 # getting key/personal info
 expertise = input("\nWhat is your area of expertise?\n")
 achievements = input("\nAny notable achievments/awards?\n")
